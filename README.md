@@ -52,7 +52,7 @@
       <div class="content">
         <div class="column col-left reveal">
           <div class="img-card">
-            <img src="../IMAGE/img1.jpg" alt="">
+            <img src="img1.jpg" alt="">
           </div>
         </div>
         <div class="column col-right reveal">
